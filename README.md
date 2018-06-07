@@ -9,5 +9,5 @@ For computational reasons the tables were sampled using the code reductiongTable
 
 Here's the link to the two html files:
 
-The link to the presentation:
+The link to the presentation: http://rpubs.com/alebj88/395092
 The link to the APP: https://alebj88.shinyapps.io/NextWordShiny/ 
